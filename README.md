@@ -1,2 +1,2 @@
-# Dynamic-Programming-Airline-Booking-Revenue-Management
+# Dynamic-Programming-Airline-Revenue
 Airline Booking Revenue Optimization using Dynamic Programming
